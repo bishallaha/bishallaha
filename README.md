@@ -3,4 +3,4 @@
 </p>
 
 <p align="center"><sub>PERFECTION LIMITS CREATIVITY &nbsp;·&nbsp; DESIGN WITH INTENT</sub></p>
-<p align="center"><sub><a href="https://github.com/bishallaha">@bishallaha</a> &nbsp;—&nbsp; Product Engineer</sub></p>
+<p align="center"><sub><a href="https://github.com/bishallaha">@bishallaha</a></sub></p>
